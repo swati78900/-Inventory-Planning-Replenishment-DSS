@@ -1,5 +1,5 @@
 # -Inventory-Planning-Replenishment-DSS
-# Inventory Planning & Replenishment Decision Support (FMCG)
+#Proactive Inventory Planning & Replenishment Decision Support System(FMCG)
 
 End-to-end inventory decision-support system (FMCG / HUL-like use case) including:
 - Demand forecasting (baseline vs XGBoost)
